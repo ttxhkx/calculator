@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="one">%</string>
+    <string name="two">√</string>
+    <string name="three">x²</string>
+    <string name="four">1/x</string>
+    <string name="five">CE</string>
+    <string name="six">C</string>
+    <string name="seven">退格</string>
+    <string name="eight">÷</string>
+    <string name="nine">7</string>
+    <string name="ten">8</string>
+    <string name="eleven">9</string>
+    <string name="twelve">×</string>
+    <string name="thirteen">4</string>
+    <string name="fourteen">5</string>
+    <string name="fifteen">6</string>
+    <string name="sixteen">-</string>
+    <string name="seventeen">1</string>
+    <string name="eighteen">2</string>
+    <string name="nineteen">3</string>
+    <string name="twenty">+</string>
+    <string name="ttwo">0</string>
+    <string name="tone">±</string>
+    <string name="tthr">.</string>
+    <string name="tfou">=</string>
+</resources>
+
